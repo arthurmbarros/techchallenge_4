@@ -1,7 +1,6 @@
-streamlit
+streamlit==1.40.2
 yfinance
 pandas
-Prophet
+prophet
+plotly
 datetime
-timedelta
-plotly.graph_objects
